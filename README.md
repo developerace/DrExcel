@@ -4,7 +4,7 @@ Chatbot telegram para auxiliar na conversão de formulas entre idiomas (BR/US/ES
 
 ## Iniciando
 
-Instalar Android/Desktop Telegram App e acessar [@drexcelbot](t.me/drexcelbot). Inserir a formula que deseja saber mais após a barra. Por Exemplo: /soma ou /if.
+Instalar Android/Desktop Telegram App e acessar [@drexcelbot](https://t.me/drexcelbot). Inserir a formula que deseja saber mais após a barra. Por Exemplo: /soma ou /if.
 
 O bot recebe comandos em PT-BR, ES e EN. Para acessar os comandos disponíveis no bot utilizar /comandos.
 
