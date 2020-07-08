@@ -1,2 +1,28 @@
-# drexcel
-Chatbot telegram para conversão de formulas entre idiomas e exemplos de aplicação das formulas
+# DrExcel - Telegram Chatbot
+
+Chatbot telegram para auxiliar na conversão de formulas entre idiomas (BR/US/ES) e exemplos de aplicação das formulas e códigos em VBA.
+
+## Iniciando
+
+Instalar Android/Desktop Telegram App e procurar por @drexcelbot. Inserir a formula que deseja saber mais após a barra. Por Exemplo: /soma ou /if.
+
+O bot recebe comandos em PT-BR, ES e EN. Para acessar os comandos disponíveis no bot utilizar /comandos.
+
+### Pré Requisitos
+
+* Telegram App Android/iOS ou
+* Telegram Desktop ou
+* Telegram Web
+
+## Construído com
+
+* [Telegram BOT API](https://core.telegram.org/bots/api) - Telegram bot api
+* [PHP](https://www.php.net/) - Back-end
+
+## Versionamento
+
+> v1.1.1.6 - 15.05.2020
+
+## Autores
+
+* **André Gorgonio** - *Initial work* - [André Gorgonio](linkedin.com/in/andregorgonio)
