@@ -25,4 +25,4 @@ O bot recebe comandos em PT-BR, ES e EN. Para acessar os comandos disponíveis n
 
 ## Autores
 
-* **André Gorgonio** - *Initial work* - [André Gorgonio](linkedin.com/in/andregorgonio)
+* **André Gorgonio** - *Initial work* - [André Gorgonio](www.linkedin.com/in/andregorgonio)
