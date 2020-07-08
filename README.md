@@ -23,8 +23,8 @@ O bot recebe comandos em PT-BR, ES e EN. Para acessar os comandos disponíveis n
 
 > v1.1.1.6 - 15.05.2020
 
-Formulas    : 023
-Funções VBA : 001
+*Formulas    : 023
+*Funções VBA : 001
 
 ## Autores
 
